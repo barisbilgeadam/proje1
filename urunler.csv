@@ -1,0 +1,31 @@
+urun_id,urun_adi,kategori,fiyat,stok_miktari,son_kullanma_tarihi
+1,Sütaş Süt 1L,Süt Ürünleri,29.90,58,2024-05-15
+2,Ülker Çikolatalı Gofret,Atıştırmalık,12.50,125,2024-12-20
+3,Domestos Çamaşır Suyu 750ml,Temizlik Ürünleri,49.90,43,2026-01-01
+4,Domates (kg),Meyve-Sebze,22.90,78,2024-04-05
+5,Dana Kıyma (kg),Et Ürünleri,350.00,35,2024-04-03
+6,Ekmek,Fırın Ürünleri,7.50,150,2024-04-01
+7,Pınar Beyaz Peynir (kg),Süt Ürünleri,280.00,47,2024-06-10
+8,Coca Cola 2.5L,İçecekler,45.90,89,2024-09-30
+9,Lays Classic Patates Cipsi,Atıştırmalık,29.90,112,2024-08-15
+10,Fairy Bulaşık Deterjanı,Temizlik Ürünleri,69.90,62,2025-11-20
+11,Elma (kg),Meyve-Sebze,18.90,95,2024-04-10
+12,Tavuk Göğüs (kg),Et Ürünleri,170.00,53,2024-04-05
+13,Dardanel Ton Balığı,Konserve,55.90,78,2025-06-18
+14,Türk Kahvesi 100g,Kahvaltılık,42.50,105,2024-10-15
+15,Siyah Zeytin (kg),Kahvaltılık,145.00,32,2024-07-23
+16,Çay 1kg,Kahvaltılık,169.90,67,2025-03-10
+17,Makarna 500g,Temel Gıda,19.90,130,2025-04-02
+18,Pirinç 1kg,Temel Gıda,69.90,82,2025-01-25
+19,Ayçiçek Yağı 2L,Temel Gıda,144.90,56,2024-11-18
+20,Balküpü Toz Şeker 1kg,Temel Gıda,44.90,93,2025-07-14
+21,Un 2kg,Temel Gıda,49.90,75,2024-08-30
+22,Şampuan 400ml,Kişisel Bakım,89.90,47,2025-05-12
+23,Colgate Diş Macunu,Kişisel Bakım,54.90,68,2025-04-25
+24,Selpak Tuvalet Kağıdı 16'lı,Kağıt Ürünleri,189.90,51,2026-02-15
+25,Portakal Suyu 1L,İçecekler,32.90,43,2024-05-05
+26,Yoğurt 1kg,Süt Ürünleri,54.90,64,2024-04-18
+27,Cips Paket,Atıştırmalık,24.90,110,2024-07-25
+28,Çikolata 80g,Atıştırmalık,25.90,87,2024-09-10
+29,Salatalık (kg),Meyve-Sebze,19.90,72,2024-04-03
+30,Muz (kg),Meyve-Sebze,39.90,65,2024-04-05
